@@ -11,3 +11,5 @@ MQ2模块输出模拟信号到8266进行adc转换，可进行实时监测环境�
 **3：演示视频**
 
 链接: https://pan.baidu.com/s/1Y6Bamf3LqyPuo4AEbPbDSg?pwd=4n8r 提取码: 4n8r
+
+![image](https://github.com/Murphy-ZZH/KitchenWarning-ESP8266-MQ2-HA/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240724012633.jpg)
